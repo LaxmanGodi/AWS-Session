@@ -15,7 +15,8 @@ STATIC_DIR="./client"
 PUBLISHABLE_KEY=""
 SECRET_KEY=""
 ```
-Follow the steps mentioned in the guide to get your Stripe API keys for testing purposes.
+Follow the steps mentioned in the guide to get your Stripe API keys for testing purposes : https://docs.stripe.com/keys
+
 3. Initialise and start the project
 ```
 npm install
